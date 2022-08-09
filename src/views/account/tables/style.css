@@ -1,0 +1,18 @@
+.active > .page-link{
+    background-color: #303c54 !important;
+    border-color: #303c54 !important;
+    color: #fff !important;
+}
+
+.page-link {
+ color: #222 !important;
+}
+
+.page-link:focus {
+    box-shadow: unset !important;
+    outline: none !important;
+}
+
+.modal-content{
+    width: 650px;
+}

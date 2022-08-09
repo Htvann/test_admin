@@ -1,0 +1,15 @@
+.btn_register.btn.btn-primary{
+    width: 150px;
+    background-color: #fff !important;
+    color: #303c54 !important;
+}
+
+.btn.btn-success,
+.btn_login.btn.btn-primary{
+    background-color: #303c54 !important;
+    color: #fff !important;
+}
+
+.card.bg-primary{
+    background-color: #303c54 !important;
+}

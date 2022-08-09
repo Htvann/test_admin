@@ -1,0 +1,52 @@
+.form_system label {
+  width: 150px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.form_system .btn_update {
+  background: #3c4b64;
+  font-size: 18px;
+  font-weight: 600;
+  width: 150px;
+}
+
+.form_system .form-control:focus {
+  box-shadow: unset !important;
+  outline: none !important;
+}
+
+.form_system .btn:active,
+.form_system .btn:hover,
+.form_system .btn:focus {
+  background-color: #3c4b64 !important;
+  border-color: #3c4b64 !important;
+  box-shadow: unset !important;
+}
+
+.form_system .btn:active:focus {
+  box-shadow: unset !important;
+}
+
+.form_system .system_img {
+  margin-left: 135px;
+}
+
+.swal2-styled.swal2-confirm{
+  background-color: #3c4b64;
+  width: 150px;
+}
+
+.swal2-styled.swal2-confirm:focus{
+  box-shadow: none;
+}
+
+.swal2-html-container{
+  font-size: 20px;
+}
+
+.swal2-styled.swal2-deny,
+.swal2-styled.swal2-cancel{
+  width: 150px;
+}
+
